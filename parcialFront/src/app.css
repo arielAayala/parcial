@@ -1,0 +1,44 @@
+.containerIngresos {
+	text-align: center;
+	padding: 2em 3em;
+}
+
+.modalIngresos {
+	display: flex;
+	justify-content: space-around;
+}
+
+form {
+	text-align: start;
+	padding: 1em;
+}
+
+form h4 {
+	font-size: 1em;
+	margin-top: 1em;
+}
+
+form button {
+	border: 2px solid skyblue;
+	border-radius: 10px;
+	color: black;
+	background-color: transparent;
+	margin: 1em 10.4em;
+	padding: 0.5em 1em;
+	font-size: 1em;
+}
+
+form input {
+	margin: 0 1em;
+	border-radius: 5px;
+	border: 1px solid;
+}
+
+form textarea {
+	resize: none;
+	width: 100%;
+	border-radius: 5px;
+}
+form label {
+	margin-left: 1em;
+}
